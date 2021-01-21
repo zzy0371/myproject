@@ -8,5 +8,9 @@ for a in range(10):
 # 第四天 流程
 if a :
     pass
+# 第五天 函数
+def myfun():
+    pass
 # 第七天
 turple1 = ()
+
