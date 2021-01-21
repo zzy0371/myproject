@@ -11,6 +11,11 @@ if a :
 # 第五天 函数
 def myfun():
     pass
+# 第六天
+list1 = []
 # 第七天
 turple1 = ()
+
+
+
 
