@@ -8,3 +8,5 @@ for a in range(10):
 # 第四天 流程
 if a :
     pass
+# 第六天
+list1 = []
