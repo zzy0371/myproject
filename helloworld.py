@@ -15,6 +15,8 @@ def myfun():
 list1 = []
 # 第七天
 turple1 = ()
+# 第八天
+dict1 = {}
 
 
 
